@@ -1,0 +1,9 @@
+gym==0.26.2
+numpy==1.26.4
+tensorflow==2.15.0
+pybullet==3.2.5
+opencv-python==4.9.0.80
+ultralytics==8.1.30
+djitellopy==2.5.0
+
+#this version of tensorflow only works with python versions of 3.9 or below
